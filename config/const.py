@@ -1,0 +1,2 @@
+MAC_ADDRESS_THRESHOLD: str = "c8:a6:08:9a:fe:71"
+RSSI_THRESHOLD: int = -60
